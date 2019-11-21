@@ -6,5 +6,4 @@ Update made on master on Github before rebase
 
 ## reposityr Purpose 
 
-This will be a change that conflicts with remote side
-edited locally
+This is really awesome website
